@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5f08bb2.css",
-    "main.js": "/static/js/main.0abb263b.js",
-    "static/media/wordleWordsBank.txt": "/static/media/wordleWordsBank.6ace1dbf5cae3fc37fc3.txt",
-    "index.html": "/index.html",
-    "main.b5f08bb2.css.map": "/static/css/main.b5f08bb2.css.map",
-    "main.0abb263b.js.map": "/static/js/main.0abb263b.js.map"
+    "main.css": "/WordleWebGameClone/static/css/main.b5f08bb2.css",
+    "main.js": "/WordleWebGameClone/static/js/main.5c898cd0.js",
+    "static/media/wordleWordsBank.txt": "/WordleWebGameClone/static/media/wordleWordsBank.6ace1dbf5cae3fc37fc3.txt",
+    "index.html": "/WordleWebGameClone/index.html",
+    "main.b5f08bb2.css.map": "/WordleWebGameClone/static/css/main.b5f08bb2.css.map",
+    "main.5c898cd0.js.map": "/WordleWebGameClone/static/js/main.5c898cd0.js.map"
   },
   "entrypoints": [
     "static/css/main.b5f08bb2.css",
-    "static/js/main.0abb263b.js"
+    "static/js/main.5c898cd0.js"
   ]
 }
